@@ -1,0 +1,155 @@
+{
+	"tags":
+	[
+		{
+			"steamid64": "76561198175577305",
+			"text": "DEVELOPER",
+			"sourceColor": "255 0 0",
+			"targetColor": "84 94 182"
+		},
+		{
+			"steamid64": "76561198168554766",
+			"text": "DEVELOPER",
+			"sourceColor": "34 177 76",
+			"targetColor": "135 153 226"
+		},		
+		{
+			"steamid64": "76561198880322045",
+			"text": "DEVELOPER",
+			"sourceColor": "97 45 52",
+			"targetColor": "112 34 55"
+		},
+		{
+			"steamid64": "76561198080732914",
+			"text": "DEVELOPER",
+			"sourceColor": "125 249 255",
+			"targetColor": "75 0 130"
+		},
+		{
+			"steamid64": "76561198127276643",
+			"text": "SPONSOR",
+			"sourceColor": "0 0 0",
+			"targetColor": "50 50 50"
+		},
+		{
+			"steamid64": "76561198251085740",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561199174240098",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561198386444303",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561198123473607",
+			"text": "FURRY",
+			"sourceColor": "84 218 244",
+			"targetColor": "84 94 182"
+		},
+		{
+			"steamid64": "76561199408307707",
+			"text": "DEVELOPER",
+			"sourceColor": "84 94 182",
+			"targetColor": "255 0 0"
+		},
+		{
+			"steamid64": "76561199804902097",
+			"text": "GUARD",
+			"sourceColor": "84 94 182",
+			"targetColor": "255 0 0"
+		},
+		{
+			"steamid64": "76561199511893992",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561199069419863",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561199104808512",
+			"text": "Pony",
+			"sourceColor": "255 188 125",
+			"targetColor": "125 255 250"
+		},
+		{
+			"steamid64": "76561198278897485",
+			"text": "Wiki editor",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561199152274553",
+			"text": "Wiki editor",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561199222134432",
+			"text": "Wiki editor",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561199121733396",
+			"text": "Wiki editor",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561199094999442",
+			"text": "SPONSOR",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561198862190242",
+			"text": "Cascade",
+			"sourceColor": "23 100 170",
+			"targetColor": "29 73 136"
+		},
+		{
+			"steamid64": "76561199072945830",
+			"text": "SPONSOR",
+			"sourceColor": "255 155 0",
+			"targetColor": "221 0 0"
+		},
+		{
+			"steamid64": "76561199120739380",
+			"text": "Master Fighter",
+			"sourceColor": "139 0 255",
+			"targetColor": "139 0 255"
+		},
+		{
+			"steamid64": "76561199523845172",
+			"text": "Wiki editor",
+			"sourceColor": "255 188 125",
+			"targetColor": "255 188 125"
+		},
+		{
+			"steamid64": "76561199344002417",
+			"text": "Hoster",
+			"sourceColor": "190 255 125",
+			"targetColor": "190 255 125"
+		},
+		{
+			"steamid64": "76561199014847917",
+			"text": "PATRON",
+			"sourceColor": "128 0 0",
+			"targetColor": "218 165 32"
+		}
+	]
+}
