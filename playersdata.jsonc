@@ -150,6 +150,12 @@
 			"text": "PATRON",
 			"sourceColor": "128 0 0",
 			"targetColor": "218 165 32"
+		},
+		{
+			"steamid64": "76561199507468179",
+			"text": "ТОЛСТЫЙ",
+			"sourceColor": "84 218 244",
+			"targetColor": "84 94 182"
 		}
 	]
 }
